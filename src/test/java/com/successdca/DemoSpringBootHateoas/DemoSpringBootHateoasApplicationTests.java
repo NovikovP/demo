@@ -1,4 +1,4 @@
-package com.successdca.demoSpringBootHateoas;
+package com.successdca.DemoSpringBootHateoas;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
